@@ -1,2 +1,2 @@
 # Python-Programming-Fundamentals
-Homework from the class
+Work from the class
